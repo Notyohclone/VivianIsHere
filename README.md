@@ -4,5 +4,5 @@ WHat are Vivian's hobbies:
 1. Cooking
 2. Reading
 2. Cannot swim
-Viavian's fav food is
+Vivian's fav food is
 Chicken
