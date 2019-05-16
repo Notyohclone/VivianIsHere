@@ -6,3 +6,6 @@ WHat are Vivian's hobbies:
 2. Cannot swim
 Vivian's fav food is
 Chicken
+
+
+This is a demo repo for a SES Projects introduction to Version Control by Philip
