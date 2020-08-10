@@ -1,4 +1,6 @@
-# VivianIsHere
+
+# This is a demo repo for a SES Projects introduction to Version Control by Philip
+  # VivianIsHere
 This the first repo about Vivian.
 WHat are Vivian's hobbies:
 1. Cooking
